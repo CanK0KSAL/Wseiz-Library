@@ -5,7 +5,7 @@ from librarian import Librarian
 from library import Library
 
 
-book1 = Book("Dead Poets Society", "Nancy H. Kleinbaum", "3134567987")
+book1 = Book("Dead Poets Society", "Nancy H. Kleinbaum", "31564567987")
 book2 = Book("La Dame Aux Camelias", "Alexandre Dumas", "8554613479")
 book3 = Book("White nights", " Fyodor Dostoevsky", "7897875641")
 
